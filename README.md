@@ -9,10 +9,11 @@
   <br>
   -CSS
 
-<img src="https://github.com/cristianorrm-boop/Wide-Coverage/blob/master/assets/desktop-Wide.jpg?raw=true">
+<img src="https://github.com/cristianorrm-boop/Wide-Coverage/blob/master/assets/desktop-Wide.jpg?raw=true" />
 
 <h2>Projeto Responsivo</h2>
 <br>
+<img src="https://github.com/cristianorrm-boop/Wide-Coverage/blob/master/assets/mobile.2.jpg?raw=true" />
 
 
 
